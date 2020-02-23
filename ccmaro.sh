@@ -1,5 +1,5 @@
 #!/bin/bash
-brew install -qq figlet
+##brew install -qq figlet
 
 rm -rf ~/.coco*
 rm -rf ~/.zcomp*
@@ -16,4 +16,6 @@ sleep 0.9
 echo '100%
 ████████████████████████'
 sleep 0.3
-figlet CcMaro
+echo ' '
+echo 'Cleaned Using CcMaro'
+##figlet CcMaro
