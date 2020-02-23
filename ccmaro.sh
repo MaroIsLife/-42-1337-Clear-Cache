@@ -2,7 +2,6 @@
 ##brew install -qq figlet
 
 rm -rf ~/.coco*
-rm -rf ~/.zcomp*
 rm -rf ~/Library *42*
 echo '10%
 ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒'
